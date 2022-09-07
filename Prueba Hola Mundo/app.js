@@ -6,5 +6,5 @@ app.get('/', function(req, res){
     //send envia respuesta
     res.send("Hola Mundo!!")
 })
-//Puerto 3001 nuestra app corre
-app.listen(3000)
+//Puerto 3001 nuestra app corre localhost:3001
+app.listen(30001)
